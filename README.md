@@ -13,4 +13,4 @@
 - Dataset, guideline: [phoNER_COVID19](https://github.com/VinAIResearch/PhoNER_COVID19)
 - Báo cáo: [*.pdf](https://github.com/tedhwang007/Corpus-Linguistics/blob/main/Report/Report.pdf)
 - Slide: [*.pdf](https://github.com/tedhwang007/Corpus-Linguistics/blob/main/Report/Report-Slide.pdf)
-- Công cụ gán nhãn bán tự động (Open in colab to display UI elements) [*.pynb](https://github.com/tedhwang007/Corpus-Linguistics/blob/main/Annotation%20Tool/CRF_Annotation_Tool.ipynb)
+- Công cụ gán nhãn bán tự động (Open in colab to display UI elements) [Folder](https://github.com/tedhwang007/Corpus-Linguistics/tree/main/Annotation%20Tool)
