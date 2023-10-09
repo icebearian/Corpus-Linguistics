@@ -8,6 +8,6 @@
 |2| Huỳnh Trọng Khoa | 18520918 |Trưởng nhóm |
 |3| Nguyễn Tấn Phúc | 18521259 |  |
 
-# Đồ án: cuối kỳ: Tìm hiểu quy trình phát triển dữ liệu về bài toán "Nhận diện thực thể tên riêng (NER)" thông qua bài báo khoa học
+# Đồ án cuối kỳ: Tìm hiểu quy trình phát triển dữ liệu về bài toán "Nhận diện thực thể tên riêng (NER)" thông qua bài báo khoa học
 - Bài báo tham khảo: [COVID-19 Named Entity Recognition for Vietnamese](https://aclanthology.org/2021.naacl-main.173/)
 - Dataset, guideline: [phoNER_COVID19](https://github.com/VinAIResearch/PhoNER_COVID19)
