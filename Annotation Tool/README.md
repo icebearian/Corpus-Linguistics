@@ -1,6 +1,6 @@
 # Hướng dẫn sử dụng
 File 1: [model_Train.ipynb](https://github.com/tedhwang007/Corpus-Linguistics/blob/main/Annotation%20Tool/model_Train.ipynb)
-- Notebook dùng để huấn luyện mô hình CRF để làm công cụ gán nhãn bán tự động, lưu lại file *.sav
+- Notebook dùng để huấn luyện mô hình CRF để làm công cụ gán nhãn bán tự động, lưu lại file ```*.sav```
 
 File 2: [CRF_Annotation_Tool.ipynb](https://github.com/tedhwang007/Corpus-Linguistics/blob/main/Annotation%20Tool/CRF_Annotation_Tool.ipynb)
 - Notebook dùng làm giao diện gán nhãn.
