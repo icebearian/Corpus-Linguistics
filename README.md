@@ -11,3 +11,6 @@
 ### Đồ án cuối kỳ: Tìm hiểu quy trình phát triển dữ liệu về bài toán "Nhận diện thực thể tên riêng (NER)" thông qua bài báo khoa học
 - Bài báo tham khảo: [COVID-19 Named Entity Recognition for Vietnamese](https://aclanthology.org/2021.naacl-main.173/)
 - Dataset, guideline: [phoNER_COVID19](https://github.com/VinAIResearch/PhoNER_COVID19)
+- Báo cáo: [*.pdf](https://github.com/tedhwang007/Corpus-Linguistics/blob/main/Report/Report.pdf)
+- Slide: [*.pdf](https://github.com/tedhwang007/Corpus-Linguistics/blob/main/Report/Report-Slide.pdf)
+- Công cụ gán nhãn bán tự động [*.pynb]()
