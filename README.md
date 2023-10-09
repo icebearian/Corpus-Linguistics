@@ -2,11 +2,11 @@
 
 
 ### Thành viên nhóm
-| STT | Họ và tên | Mã số sinh viên| Vai trò |
-|-----|--------------|-----------|------ |
-|1| Trần Tuấn Vỹ | 18520406 |  |
-|2| Huỳnh Trọng Khoa | 18520918 |Trưởng nhóm |
-|3| Nguyễn Tấn Phúc | 18521259 |  |
+| STT | Họ và tên | Mã số sinh viên| 
+|-----|--------------|-----------|
+|1| Trần Tuấn Vỹ | 18520406 | 
+|2| Huỳnh Trọng Khoa | 18520918 |
+|3| Nguyễn Tấn Phúc | 18521259 |
 
 ### Đồ án cuối kỳ: Tìm hiểu quy trình phát triển dữ liệu về bài toán "Nhận diện thực thể tên riêng (NER)" thông qua bài báo khoa học
 - Bài báo tham khảo: [COVID-19 Named Entity Recognition for Vietnamese](https://aclanthology.org/2021.naacl-main.173/)
